@@ -1,0 +1,4 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Main Station,25.0478,121.5319
+2,City Hall,25.0375,121.5637
+3,University,25.0173,121.5397
